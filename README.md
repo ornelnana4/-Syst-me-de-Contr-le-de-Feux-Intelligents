@@ -155,7 +155,7 @@ Le système démontre :
 
 ### 👥 Équipe de Développement
 
-- **Étudiant(s)** : [Votre nom]
+- **Étudiant(s)** : NANA ORNELLA
 - **Cours** : INF 4178 - Génie Logiciel I
 - **Enseignant** : Dr. Kimbi Xaveria
 - **Session** : Mai 2025
